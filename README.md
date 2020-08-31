@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on ... Flutter or Python apps
 - 🤔 I’m looking for help with ... Software design pattern
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... vivpatel99@gmail.com 
+- 📫 How to reach me: ... Vivpatel99@gmail.com 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love Anime
 
