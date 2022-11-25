@@ -5,10 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ... Android App
-- 🌱 I’m currently learning ...Flutter and Dart
-- 👯 I’m looking to collaborate on ... Flutter or Python apps
-- 🤔 I’m looking for help with ... Software design pattern
+- 🔭 I’m currently learning Machine Learning.
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Vivpatel99@gmail.com 
 - 😄 Pronouns: ... He/Him
