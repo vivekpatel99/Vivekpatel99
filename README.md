@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently learning Machine Learning.
+- 🔭 I’m currently learning Machine Learning & Deep learning.
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Vivpatel99@gmail.com 
 - 😄 Pronouns: ... He/Him
