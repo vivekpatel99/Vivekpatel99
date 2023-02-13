@@ -11,3 +11,7 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love Anime
 
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekpatel99&theme=radical)
