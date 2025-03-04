@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Patel</h1>
 <h3 align="center">I'm a passionate Computer Vision and AI Engineer, currently expanding my knowledge in Machine Learning & Deep Learning. With a strong background in software engineering and a keen interest in cutting-edge technologies, I'm always excited to tackle new challenges and create innovative solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="assets/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekpatel99&label=Profile%20views&color=0e75b6&style=flat" alt="vivekpatel99" /> </p>
 
 - 🔭 I’m currently working on **chest-x-ray-diagnosis**
