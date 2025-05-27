@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="assets/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekpatel99&label=Profile%20views&color=0e75b6&style=flat" alt="vivekpatel99" /> </p>
 
-- 🔭 I’m currently working on **chest-x-ray-diagnosis**
+- 🔭 I’m currently working on **Building Vision Transformer from scratch**
 
-- 🌱 I’m currently learning **AI for Medical Diagnosis from Coursera**
+- 🌱 I’m currently learning **Fast API and Langchain**
 
 - 💬 Ask me about **Python, TensorFlow, PyTorch, or anything tech-related!**
 
