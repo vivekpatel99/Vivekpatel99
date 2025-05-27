@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="assets/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekpatel99&label=Profile%20views&color=0e75b6&style=flat" alt="vivekpatel99" /> </p>
 
-- 🔭 I’m currently working on **building Vision Transformer from scratch**
+- 🔭 I’m currently working on **building SmartWaste-Detect-E2E** project.
 
 - 🌱 I’m currently learning **Fast API and LangChain**
 
