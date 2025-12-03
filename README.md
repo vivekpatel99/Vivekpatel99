@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, TensorFlow, PyTorch, or anything tech-related!**
 
-- 📫 How to reach me **Vivpatel99@gmail.com**
+- 📫 How to reach me **contact@vivekapatel.com**
 
 - ⚡ Fun fact **I'm an anime enthusiast!**
 
