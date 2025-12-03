@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **project-planning-genie** project.
 
-- 🌱 I’m currently learning **Fast API and LangChain**
+- 🌱 I’m a Freelancer.
 
 - 💬 Ask me about **Python, TensorFlow, PyTorch, or anything tech-related!**
 
